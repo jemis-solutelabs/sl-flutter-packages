@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: sl_social_auth
+dependency_overrides:
+  sl_social_auth:
+    path: ..
